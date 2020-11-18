@@ -5,6 +5,10 @@
     font-family: 'Roboto Slab', serif;
     font-weight: 500;
 }
+.avatars {
+    display: flex;
+    justify-content: space-evenly;
+}
 
 #test1 {
     border: 1px solid white;
