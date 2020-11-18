@@ -1,9 +1,21 @@
 #background {
     display: flex;
     justify-content: center;
-    filter: blur(15px);
-   
+
+    filter: blur(5px);
+
+    
+
+
+    }
+
+#background img{
+    width: 670px;
+
 }
+
+
+
 
 
 
@@ -12,9 +24,14 @@
 
 .footer {
     display: flex;
+    justify-content: center;
     font-family: 'Big Shoulders Stencil Display', cursive;
     bottom: 0;
-    position: fixed;
+    text-align: center;
     background-color: rgb(221,221,221);
+
     
 }
+
+
+
