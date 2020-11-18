@@ -1,1 +1,73 @@
+.testimonials {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+}
+.avatars {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#test1 {
+    border: 1px solid white;
+}
+
+#test2 {
+    border: 1px solid white;
+    
+
+}
+
+#test3 {
+    border: 1px solid white;
+    
+
+}
+
+
+#background {
+    display: flex;
+    justify-content: center;
+
+    filter: blur(5px);
+    
+
+    
+
+
+    }
+
+#background img{
+    width: 670px;
+
+}
+
+hr {
+    padding-top: 1px;
+    height: 3px;
+    border: none;
+    background-color: red;
+}
+
+
+
+
+
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto Slab', serif;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(221,221,221);
+
+
+    
+}
+
+
 
