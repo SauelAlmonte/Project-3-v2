@@ -2,7 +2,8 @@
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
-    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
 }
 
 #test1 {
@@ -55,10 +56,11 @@ hr {
 .footer {
     display: flex;
     justify-content: center;
-    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-family: 'Roboto Slab', serif;
     bottom: 0;
     text-align: center;
     background-color: rgb(221,221,221);
+
 
     
 }
