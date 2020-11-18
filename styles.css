@@ -1,3 +1,7 @@
 .footer {
+    display: flex;
+    justify-content: center;
     font-family: 'Big Shoulders Stencil Display', cursive;
+    bottom: 0;
+    background-color: rgb(221,221,221);
 }
