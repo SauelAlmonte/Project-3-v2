@@ -1,8 +1,33 @@
+.testimonials {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+
+#test1 {
+    border: 1px solid white;
+}
+
+#test2 {
+    border: 1px solid white;
+    
+
+}
+
+#test3 {
+    border: 1px solid white;
+    
+
+}
+
+
 #background {
     display: flex;
     justify-content: center;
 
     filter: blur(5px);
+    
 
     
 
@@ -14,7 +39,12 @@
 
 }
 
-
+hr {
+    padding-top: 1px;
+    height: 3px;
+    border: none;
+    background-color: red;
+}
 
 
 
