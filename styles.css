@@ -7,6 +7,12 @@
 
 }
 
+.headerimages {
+    display: flex;
+    align-content: flex-start;
+
+}
+
 
 .testimonials {
     display: flex;
