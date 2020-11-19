@@ -6,4 +6,3 @@
 5. Opened project3 in **Vscode** using commandline
 6. Began implementing neccasry codes in **index.html** and organiziing header
 7. Began implementing neccasry codes in **styles.css** and organiziing header
-    
