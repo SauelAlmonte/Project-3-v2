@@ -4,11 +4,6 @@
     justify-content: space-between;
 }
 
-.nav img {
-    width: 400px;
-    height: 85px  
-}
-
 .nav a {
     text-decoration: none;
     font-size: 16px;
