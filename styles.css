@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #eee;
+    background-color: gray;
 }
 
 nav {
@@ -12,10 +12,6 @@ nav {
     width: 100%;
     height: 100px;
     background-color: white; 
-}
-
-ul {
-
 }
 
 ul li {
