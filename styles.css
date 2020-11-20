@@ -1,14 +1,36 @@
-.header {
-    display: flex;
-    justify-content: space-evenly;
-    flex-direction: row;
-    font-family: 'Roboto Slab', serif;
-    font-weight: 500;
+* {
+  margin: 0;  
+  padding: 0;
+}
+
+body {
+    background-color: #eee;
+}
+
+nav {
+   width: 100%;
+   height: 100px;
+   background-color: white; 
+}
+
+ul {
 
 }
 
-.headerimages {
-    display: flex;
-    align-content: space-evenly;
+ul li {
+    align-content: center;
+    list-style: none;
+    display: inline-flex;
+    float: left;
+    line-height: 100px;
+}
 
+ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    color: black;
+    padding: 0 10px;
 }
