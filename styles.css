@@ -2,25 +2,42 @@
     background: white;
     display: flex;
     justify-content: space-between;
+    
 }
 
-.nav img:nth-child(1) {
+.nav img {
     width: 400px;
     height: 85px  
 }
 
-a {
+.nav a {
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    color: black;
+    align-content: center;
+    line-height: 50px;
+}
+
+/* .nav2 {
+    background: white;
+    display: flex;
+    justify-content: right;
+   
+}
+
+.nav2 a {
     text-decoration: none;
     font-size: 14px;
     font-family: Roboto Slab;
     font-weight: 500;
-    color: black;
-}
+    color: black; */
 
-.nav img:nth-child(2) {
+/* .nav img:nth-child(2) {
     width: 2px;
     height: 8px  
-}
+} */
 
 /* applies to all images */
 /* nav > img {
