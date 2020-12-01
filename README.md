@@ -40,11 +40,17 @@ Test your files locally
 
 git status
 
+a. Add files one by one or all at once:
+
 git add -A
 
 git status
 
+b. Commit the files one by one or all at once:
+
 git commit -m "YOUR_COMMENT"
+
+c. Push the files one by one or all oce:
 
 git push
 
