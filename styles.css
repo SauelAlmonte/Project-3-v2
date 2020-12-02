@@ -6,31 +6,25 @@ nav {
     display: flex;
     justify-content: space-between;
     margin: 0;
-    padding: 0px;
-    height: 100px;
-    width: 100%;
-    background-color: black;
-    no-repeat: center center/cover;
+    position: relative;
 }
 
 .image1 {
-    background-repeat: no-repeat;
     justify-content: left;
 }
 
-.menu1 {
-    font-family: "Roboto Slab", sans-serif;
-
-}
-
-.menu2 {
-    font-family: "Roboto Slab", sans-serif;
-    background-repeat: no-repeat;
+.menu {
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    color: #3c4043;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    margin-top: 2rem;
 
 }
 
 .image2 {
-    background-repeat: no-repeat;
     justify-content: right;
 }
 
