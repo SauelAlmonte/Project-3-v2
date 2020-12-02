@@ -1,20 +1,48 @@
+body {
+    margin: 0;
+}
 
-
-.nav {
-    background: white;
+nav {
     display: flex;
     justify-content: space-between;
+    margin: 0;
+    padding: 0px;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    no-repeat: center center/cover;
 }
 
-.nav a {
-    text-decoration: none;
-    font-size: 16px;
-    font-family: Roboto Slab;
-    font-style: normal;
-    color: black;
-    align-content: center;
-    line-height: 50px;
+.image1 {
+    background-repeat: no-repeat;
+    justify-content: left;
 }
+
+.menu1 {
+    font-family: "Roboto Slab", sans-serif;
+
+}
+
+.menu2 {
+    font-family: "Roboto Slab", sans-serif;
+    background-repeat: no-repeat;
+
+}
+
+.image2 {
+    background-repeat: no-repeat;
+    justify-content: right;
+}
+
+/*.nav a {*/
+/*    text-decoration: none;*/
+/*    font-size: 16px;*/
+/*    font-family: Roboto Slab, sans-serif;*/
+/*    font-style: normal;*/
+/*    color: black;*/
+/*    align-content: center;*/
+/*    line-height: 50px;*/
+/*}*/
 
 /* .nav2 {
     background: white;
